@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @DutchMaker
-👀 I tinker with electronics, computers and machinery!  
+👀 I tinker with electronics, hardware, software and machinery!  
 #️⃣ #retrocomputing #electronics #8bit #repair #3dprinting #retrogaming #engineering #maker #diy
 
 Find me on: 
