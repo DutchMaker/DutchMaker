@@ -3,7 +3,7 @@
 #️⃣ #retrocomputing #electronics #8bit #repair #3dprinting #retrogaming #engineering #maker #diy
 
 Find me on: 
-- 🌎 [Web](DutchMaker.com)
+- 🌎 [Web](https://dutchmaker.com)
 - 📷 [Instagram](https://www.instagram.com/dutchmakercom/)
 - ☠️ [Hackaday](https://hackaday.io/DutchMaker)
 - 📽 [YouTube](https://www.youtube.com/channel/UCDYUzJjAI306Au93MD28B-Q)
