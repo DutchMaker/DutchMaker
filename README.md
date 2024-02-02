@@ -3,10 +3,10 @@
 #️⃣ #retrocomputing #electronics #8bit #repair #3dprinting #retrogaming #engineering #maker #diy
 
 Find me on: 
-- 🌎 [Web](https://dutchmaker.com)
-- 📷 [Instagram](https://www.instagram.com/dutchmakercom/)
-- ☠️ [Hackaday](https://hackaday.io/DutchMaker)
-- 📽 [YouTube](https://www.youtube.com/channel/UCDYUzJjAI306Au93MD28B-Q)
+- 🌎 [Web](https://dutchmaker.nl)
+- 📷 [Instagram](https://www.instagram.com/dutchmaker.nl)
+- ☠️ [Hackaday](https://hackaday.io/dutchmaker)
+- 📽 [YouTube](https://www.youtube.com/@dutchmakernl)
 
 <!---
 DutchMaker/DutchMaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
